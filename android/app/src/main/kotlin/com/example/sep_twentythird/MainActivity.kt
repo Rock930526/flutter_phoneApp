@@ -1,3 +1,5 @@
+package com.example.sep_twentythird
+
 // ...existing code...
 import android.os.Bundle
 import io.flutter.embedding.android.FlutterActivity
